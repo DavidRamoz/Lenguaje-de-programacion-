@@ -1,0 +1,12 @@
+/Users/bu/Desktop/Punto20/Punto20/bin/Debug/netcoreapp3.1/Punto20.deps.json
+/Users/bu/Desktop/Punto20/Punto20/bin/Debug/netcoreapp3.1/Punto20.runtimeconfig.json
+/Users/bu/Desktop/Punto20/Punto20/bin/Debug/netcoreapp3.1/Punto20.runtimeconfig.dev.json
+/Users/bu/Desktop/Punto20/Punto20/bin/Debug/netcoreapp3.1/Punto20.dll
+/Users/bu/Desktop/Punto20/Punto20/bin/Debug/netcoreapp3.1/Punto20.pdb
+/Users/bu/Desktop/Punto20/Punto20/obj/Debug/netcoreapp3.1/Punto20.csproj.AssemblyReference.cache
+/Users/bu/Desktop/Punto20/Punto20/obj/Debug/netcoreapp3.1/Punto20.AssemblyInfoInputs.cache
+/Users/bu/Desktop/Punto20/Punto20/obj/Debug/netcoreapp3.1/Punto20.AssemblyInfo.cs
+/Users/bu/Desktop/Punto20/Punto20/obj/Debug/netcoreapp3.1/Punto20.csproj.CoreCompileInputs.cache
+/Users/bu/Desktop/Punto20/Punto20/obj/Debug/netcoreapp3.1/Punto20.dll
+/Users/bu/Desktop/Punto20/Punto20/obj/Debug/netcoreapp3.1/Punto20.pdb
+/Users/bu/Desktop/Punto20/Punto20/obj/Debug/netcoreapp3.1/Punto20.genruntimeconfig.cache
